@@ -1,13 +1,13 @@
 {
-  "main.css": "/vandal777/my-great-portfolio/static/css/main.3ae3033b.chunk.css",
-  "main.js": "/vandal777/my-great-portfolio/static/js/main.a476b8ff.chunk.js",
-  "main.js.map": "/vandal777/my-great-portfolio/static/js/main.a476b8ff.chunk.js.map",
-  "runtime~main.js": "/vandal777/my-great-portfolio/static/js/runtime~main.611757ce.js",
-  "runtime~main.js.map": "/vandal777/my-great-portfolio/static/js/runtime~main.611757ce.js.map",
-  "static/js/2.d6a534e5.chunk.js": "/vandal777/my-great-portfolio/static/js/2.d6a534e5.chunk.js",
-  "static/js/2.d6a534e5.chunk.js.map": "/vandal777/my-great-portfolio/static/js/2.d6a534e5.chunk.js.map",
-  "index.html": "/vandal777/my-great-portfolio/index.html",
-  "precache-manifest.fe85e15c564ed935d09e9c0c61e2fce7.js": "/vandal777/my-great-portfolio/precache-manifest.fe85e15c564ed935d09e9c0c61e2fce7.js",
-  "service-worker.js": "/vandal777/my-great-portfolio/service-worker.js",
-  "static/css/main.3ae3033b.chunk.css.map": "/vandal777/my-great-portfolio/static/css/main.3ae3033b.chunk.css.map"
+  "main.css": "/my-great-portfolio/static/css/main.3ae3033b.chunk.css",
+  "main.js": "/my-great-portfolio/static/js/main.e0b8d156.chunk.js",
+  "main.js.map": "/my-great-portfolio/static/js/main.e0b8d156.chunk.js.map",
+  "runtime~main.js": "/my-great-portfolio/static/js/runtime~main.04d34cd8.js",
+  "runtime~main.js.map": "/my-great-portfolio/static/js/runtime~main.04d34cd8.js.map",
+  "static/js/2.d6a534e5.chunk.js": "/my-great-portfolio/static/js/2.d6a534e5.chunk.js",
+  "static/js/2.d6a534e5.chunk.js.map": "/my-great-portfolio/static/js/2.d6a534e5.chunk.js.map",
+  "index.html": "/my-great-portfolio/index.html",
+  "precache-manifest.583ea22eb587d9037a5a3350c4d7f6fe.js": "/my-great-portfolio/precache-manifest.583ea22eb587d9037a5a3350c4d7f6fe.js",
+  "service-worker.js": "/my-great-portfolio/service-worker.js",
+  "static/css/main.3ae3033b.chunk.css.map": "/my-great-portfolio/static/css/main.3ae3033b.chunk.css.map"
 }
